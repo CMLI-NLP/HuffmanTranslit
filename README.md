@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Paper](https://img.shields.io/badge/Paper-ACL2025-green.svg)](https://aclanthology.org/2025.acl-long.795/)
 
-**HuffmanTranslit** is a novel framework for enhancing cross-lingual transfer in large language models through reversible transliteration of low-resource languages. Our approach combines character transliteration with Huffman coding principles to achieve compression, accuracy, efficiency, and scalability.
+**HuffmanTranslit** is a novel framework for enhancing cross-lingual transfer in large language models through reversible transliteration of low-resource languages. Our approach combines character transliteration with Huffman coding principles to achieve compression, accuracy, efficiency, and scalability for **any character-based writing system**.
 
 ## 🎯 Key Features
 
@@ -14,7 +14,7 @@
 - **Multi-Strategy Support**: Three progressive transliteration strategies (Basic, Tokenizer-optimized, Hybrid)
 - **Easy Integration**: Simple API for seamless integration into existing NLP pipelines
 
-*Note: We currently provide pre-built character mappings for Tibetan, Mongolian, and Uyghur, but the framework supports any language.*
+*Note: We currently provide pre-built character mappings for Tibetan, Mongolian, and Uyghur ([basic](data/character_mappings/basic_mapping.json) and [optimized](data/character_mappings/optimized_mapping.json)), but the framework supports any language.*
 
 ## 🚀 Quick Start
 
@@ -31,8 +31,8 @@ pip install -r requirements.txt
 ```python
 from src.core.transliterator import create_transliterator
 
-# Create a transliterator with optimized encoding
-transliterator = create_transliterator('optimized')
+# Create a transliterator with optimized encoding (recommended for Tokenizer strategy)
+transliterator = create_transliterator('optimized')  # or 'basic' for Basic strategy
 
 # Transliterate text to Latin representation
 tibetan_text = "འཇིག་རྟེན་གྱི་སངས་རྒྱས་ཆོས་ལུགས།"
@@ -62,9 +62,9 @@ We provide pre-built character mappings for:
 
 | Language | ISO Code | Script | Character Mappings |
 |----------|----------|--------|--------------------|
-| Tibetan | bo | Tibetan script | ✅ Basic & Optimized |
-| Mongolian | mn | Traditional Mongolian | ✅ Basic & Optimized |
-| Uyghur | ug | Uyghur Arabic script | ✅ Basic & Optimized |
+| Tibetan | bo | Tibetan script | ✅ [Basic](data/character_mappings/basic_mapping.json) & [Optimized](data/character_mappings/optimized_mapping.json) |
+| Mongolian | mn | Traditional Mongolian | ✅ [Basic](data/character_mappings/basic_mapping.json) & [Optimized](data/character_mappings/optimized_mapping.json) |
+| Uyghur | ug | Uyghur Arabic script | ✅ [Basic](data/character_mappings/basic_mapping.json) & [Optimized](data/character_mappings/optimized_mapping.json) |
 
 ### Extending to New Languages
 The framework is **language-agnostic** and can be easily extended to any character-based writing system:
@@ -86,7 +86,11 @@ transliterator = HuffmanTransliterator('your_language_mapping.json')
 ```
 
 ### Theoretical Capacity
-The encoding scheme can handle up to **475,254 unique characters**, making it suitable for:
+The encoding scheme is **fully extensible** and can handle virtually unlimited characters by increasing code length:
+- Length 1-4: Up to 475,254 unique characters
+- Length 5+: Millions more characters possible
+
+This makes it suitable for:
 - Any natural language
 - Historical scripts
 - Specialized notation systems
@@ -99,10 +103,12 @@ The encoding scheme can handle up to **475,254 unique characters**, making it su
 2. **Transliteration**: Convert text using frequency-based character mappings  
 3. **Restoration**: Losslessly restore original text from Latin representation
 
-### Encoding Strategies
-- **Basic**: Simple frequency-based Latin encoding (1.63× compression)
-- **Tokenizer**: LLaMA2 single-token optimization (2.35× compression)
-- **Hybrid**: Specialized vocabulary integration (3.04× compression)
+### Encoding Strategies (Recommended)
+- **Basic**: Simple frequency-based Latin encoding (1.63× compression) - *uses basic mapping*
+- **Tokenizer**: LLaMA2 single-token optimization (2.35× compression) - *uses optimized mapping*
+- ~~Hybrid~~: *Not recommended for general use*
+
+We provide character mappings for both recommended strategies: [basic_mapping.json](data/character_mappings/basic_mapping.json) and [optimized_mapping.json](data/character_mappings/optimized_mapping.json).
 
 ## 📚 Datasets
 
