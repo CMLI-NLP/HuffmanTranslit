@@ -1,0 +1,1460 @@
+[
+  {
+    "id": 1,
+    "char": " ",
+    "unicode": "U+0020",
+    "name": "SPACE",
+    "frequency": 3738461,
+    "latin_code": "B",
+    "way2_code": "▁"
+  },
+  {
+    "id": 2,
+    "char": "་",
+    "unicode": "U+0F0B",
+    "name": "TIBETAN MARK INTERSYLLABIC TSHEG",
+    "frequency": 3158047,
+    "latin_code": "C",
+    "way2_code": "e"
+  },
+  {
+    "id": 3,
+    "char": "ى",
+    "unicode": "U+0649",
+    "name": "ARABIC LETTER ALEF MAKSURA",
+    "frequency": 1957239,
+    "latin_code": "D",
+    "way2_code": "t"
+  },
+  {
+    "id": 4,
+    "char": "ᠠ",
+    "unicode": "U+1820",
+    "name": "MONGOLIAN LETTER A",
+    "frequency": 1363662,
+    "latin_code": "E",
+    "way2_code": "a"
+  },
+  {
+    "id": 5,
+    "char": "ᠢ",
+    "unicode": "U+1822",
+    "name": "MONGOLIAN LETTER I",
+    "frequency": 1074071,
+    "latin_code": "F",
+    "way2_code": "i"
+  },
+  {
+    "id": 6,
+    "char": "ᠡ",
+    "unicode": "U+1821",
+    "name": "MONGOLIAN LETTER E",
+    "frequency": 1015893,
+    "latin_code": "G",
+    "way2_code": "n"
+  },
+  {
+    "id": 7,
+    "char": "ا",
+    "unicode": "U+0627",
+    "name": "ARABIC LETTER ALEF",
+    "frequency": 979501,
+    "latin_code": "H",
+    "way2_code": "o"
+  },
+  {
+    "id": 8,
+    "char": "ས",
+    "unicode": "U+0F66",
+    "name": "TIBETAN LETTER SA",
+    "frequency": 941743,
+    "latin_code": "I",
+    "way2_code": "r"
+  },
+  {
+    "id": 9,
+    "char": "ᠭ",
+    "unicode": "U+182D",
+    "name": "MONGOLIAN LETTER GA",
+    "frequency": 847367,
+    "latin_code": "J",
+    "way2_code": "s"
+  },
+  {
+    "id": 10,
+    "char": "ᠨ",
+    "unicode": "U+1828",
+    "name": "MONGOLIAN LETTER NA",
+    "frequency": 846990,
+    "latin_code": "K",
+    "way2_code": "l"
+  },
+  {
+    "id": 11,
+    "char": "ᠤ",
+    "unicode": "U+1824",
+    "name": "MONGOLIAN LETTER U",
+    "frequency": 813833,
+    "latin_code": "L",
+    "way2_code": "d"
+  },
+  {
+    "id": 12,
+    "char": "ە",
+    "unicode": "U+06D5",
+    "name": "ARABIC LETTER AE",
+    "frequency": 758084,
+    "latin_code": "M",
+    "way2_code": "h"
+  },
+  {
+    "id": 13,
+    "char": "ل",
+    "unicode": "U+0644",
+    "name": "ARABIC LETTER LAM",
+    "frequency": 748515,
+    "latin_code": "N",
+    "way2_code": "c"
+  },
+  {
+    "id": 14,
+    "char": "ག",
+    "unicode": "U+0F42",
+    "name": "TIBETAN LETTER GA",
+    "frequency": 710397,
+    "latin_code": "P",
+    "way2_code": "u"
+  },
+  {
+    "id": 15,
+    "char": "ི",
+    "unicode": "U+0F72",
+    "name": "TIBETAN VOWEL SIGN I",
+    "frequency": 700138,
+    "latin_code": "Q",
+    "way2_code": "m"
+  },
+  {
+    "id": 16,
+    "char": "ᠯ",
+    "unicode": "U+182F",
+    "name": "MONGOLIAN LETTER LA",
+    "frequency": 699364,
+    "latin_code": "R",
+    "way2_code": "p"
+  },
+  {
+    "id": 17,
+    "char": "ད",
+    "unicode": "U+0F51",
+    "name": "TIBETAN LETTER DA",
+    "frequency": 670354,
+    "latin_code": "S",
+    "way2_code": "g"
+  },
+  {
+    "id": 18,
+    "char": "ن",
+    "unicode": "U+0646",
+    "name": "ARABIC LETTER NOON",
+    "frequency": 656199,
+    "latin_code": "T",
+    "way2_code": "f"
+  },
+  {
+    "id": 19,
+    "char": "ོ",
+    "unicode": "U+0F7C",
+    "name": "TIBETAN VOWEL SIGN O",
+    "frequency": 643702,
+    "latin_code": "V",
+    "way2_code": "."
+  },
+  {
+    "id": 20,
+    "char": " ",
+    "unicode": "U+202F",
+    "name": "NARROW NO-BREAK SPACE",
+    "frequency": 614711,
+    "latin_code": "W",
+    "way2_code": "b"
+  },
+  {
+    "id": 21,
+    "char": "ر",
+    "unicode": "U+0631",
+    "name": "ARABIC LETTER REH",
+    "frequency": 598692,
+    "latin_code": "X",
+    "way2_code": "y"
+  },
+  {
+    "id": 22,
+    "char": "ᠦ",
+    "unicode": "U+1826",
+    "name": "MONGOLIAN LETTER UE",
+    "frequency": 594310,
+    "latin_code": "Aa",
+    "way2_code": ","
+  },
+  {
+    "id": 23,
+    "char": "ت",
+    "unicode": "U+062A",
+    "name": "ARABIC LETTER TEH",
+    "frequency": 580230,
+    "latin_code": "Ab",
+    "way2_code": "w"
+  },
+  {
+    "id": 24,
+    "char": "ᠷ",
+    "unicode": "U+1837",
+    "name": "MONGOLIAN LETTER RA",
+    "frequency": 560771,
+    "latin_code": "Ac",
+    "way2_code": "v"
+  },
+  {
+    "id": 25,
+    "char": "ᠬ",
+    "unicode": "U+182C",
+    "name": "MONGOLIAN LETTER QA",
+    "frequency": 541887,
+    "latin_code": "Ad",
+    "way2_code": "k"
+  },
+  {
+    "id": 26,
+    "char": "ᠶ",
+    "unicode": "U+1836",
+    "name": "MONGOLIAN LETTER YA",
+    "frequency": 520504,
+    "latin_code": "Ae",
+    "way2_code": "1"
+  },
+  {
+    "id": 27,
+    "char": "བ",
+    "unicode": "U+0F56",
+    "name": "TIBETAN LETTER BA",
+    "frequency": 500618,
+    "latin_code": "Af",
+    "way2_code": ")"
+  },
+  {
+    "id": 28,
+    "char": "ར",
+    "unicode": "U+0F62",
+    "name": "TIBETAN LETTER RA",
+    "frequency": 475526,
+    "latin_code": "Ag",
+    "way2_code": "("
+  },
+  {
+    "id": 29,
+    "char": "ང",
+    "unicode": "U+0F44",
+    "name": "TIBETAN LETTER NGA",
+    "frequency": 468168,
+    "latin_code": "Ah",
+    "way2_code": "-"
+  },
+  {
+    "id": 30,
+    "char": "ۇ",
+    "unicode": "U+06C7",
+    "name": "ARABIC LETTER U",
+    "frequency": 453170,
+    "latin_code": "Ai",
+    "way2_code": "0"
+  },
+  {
+    "id": 31,
+    "char": "ན",
+    "unicode": "U+0F53",
+    "name": "TIBETAN LETTER NA",
+    "frequency": 446159,
+    "latin_code": "Aj",
+    "way2_code": ":"
+  },
+  {
+    "id": 32,
+    "char": "ུ",
+    "unicode": "U+0F74",
+    "name": "TIBETAN VOWEL SIGN U",
+    "frequency": 445457,
+    "latin_code": "Ak",
+    "way2_code": "I"
+  },
+  {
+    "id": 33,
+    "char": "ᠳ",
+    "unicode": "U+1833",
+    "name": "MONGOLIAN LETTER DA",
+    "frequency": 444371,
+    "latin_code": "Al",
+    "way2_code": "S"
+  },
+  {
+    "id": 34,
+    "char": "ྱ",
+    "unicode": "U+0FB1",
+    "name": "TIBETAN SUBJOINED LETTER YA",
+    "frequency": 426138,
+    "latin_code": "Am",
+    "way2_code": "о"
+  },
+  {
+    "id": 35,
+    "char": "ق",
+    "unicode": "U+0642",
+    "name": "ARABIC LETTER QAF",
+    "frequency": 423567,
+    "latin_code": "An",
+    "way2_code": "ơ"
+  },
+  {
+    "id": 36,
+    "char": "ᠪ",
+    "unicode": "U+182A",
+    "name": "MONGOLIAN LETTER BA",
+    "frequency": 418849,
+    "latin_code": "Ao",
+    "way2_code": "2"
+  },
+  {
+    "id": 37,
+    "char": "འ",
+    "unicode": "U+0F60",
+    "name": "TIBETAN LETTER -A",
+    "frequency": 406603,
+    "latin_code": "Ap",
+    "way2_code": "C"
+  },
+  {
+    "id": 38,
+    "char": "ئ",
+    "unicode": "U+0626",
+    "name": "ARABIC LETTER YEH WITH HAMZA ABOVE",
+    "frequency": 397475,
+    "latin_code": "Aq",
+    "way2_code": "ű"
+  },
+  {
+    "id": 39,
+    "char": "ེ",
+    "unicode": "U+0F7A",
+    "name": "TIBETAN VOWEL SIGN E",
+    "frequency": 394860,
+    "latin_code": "Ar",
+    "way2_code": "A"
+  },
+  {
+    "id": 40,
+    "char": "ك",
+    "unicode": "U+0643",
+    "name": "ARABIC LETTER KAF",
+    "frequency": 378140,
+    "latin_code": "As",
+    "way2_code": "а"
+  },
+  {
+    "id": 41,
+    "char": "م",
+    "unicode": "U+0645",
+    "name": "ARABIC LETTER MEEM",
+    "frequency": 369259,
+    "latin_code": "At",
+    "way2_code": "T"
+  },
+  {
+    "id": 42,
+    "char": "ᠲ",
+    "unicode": "U+1832",
+    "name": "MONGOLIAN LETTER TA",
+    "frequency": 358548,
+    "latin_code": "Au",
+    "way2_code": "{"
+  },
+  {
+    "id": 43,
+    "char": "ᠰ",
+    "unicode": "U+1830",
+    "name": "MONGOLIAN LETTER SA",
+    "frequency": 347923,
+    "latin_code": "Av",
+    "way2_code": "}"
+  },
+  {
+    "id": 44,
+    "char": "د",
+    "unicode": "U+062F",
+    "name": "ARABIC LETTER DAL",
+    "frequency": 346053,
+    "latin_code": "Aw",
+    "way2_code": "บ"
+  },
+  {
+    "id": 45,
+    "char": "ي",
+    "unicode": "U+064A",
+    "name": "ARABIC LETTER YEH",
+    "frequency": 341935,
+    "latin_code": "Ax",
+    "way2_code": "'"
+  },
+  {
+    "id": 46,
+    "char": "س",
+    "unicode": "U+0633",
+    "name": "ARABIC LETTER SEEN",
+    "frequency": 330447,
+    "latin_code": "Ay",
+    "way2_code": "x"
+  },
+  {
+    "id": 47,
+    "char": "ᠣ",
+    "unicode": "U+1823",
+    "name": "MONGOLIAN LETTER O",
+    "frequency": 325563,
+    "latin_code": "Az",
+    "way2_code": "и"
+  },
+  {
+    "id": 48,
+    "char": "ش",
+    "unicode": "U+0634",
+    "name": "ARABIC LETTER SHEEN",
+    "frequency": 325055,
+    "latin_code": "Ba",
+    "way2_code": "_"
+  },
+  {
+    "id": 49,
+    "char": "ལ",
+    "unicode": "U+0F63",
+    "name": "TIBETAN LETTER LA",
+    "frequency": 323356,
+    "latin_code": "Bb",
+    "way2_code": "е"
+  },
+  {
+    "id": 50,
+    "char": "ᠵ",
+    "unicode": "U+1835",
+    "name": "MONGOLIAN LETTER JA",
+    "frequency": 316608,
+    "latin_code": "Bc",
+    "way2_code": "z"
+  },
+  {
+    "id": 51,
+    "char": "མ",
+    "unicode": "U+0F58",
+    "name": "TIBETAN LETTER MA",
+    "frequency": 303182,
+    "latin_code": "Bd",
+    "way2_code": "н"
+  },
+  {
+    "id": 52,
+    "char": "ب",
+    "unicode": "U+0628",
+    "name": "ARABIC LETTER BEH",
+    "frequency": 257794,
+    "latin_code": "Be",
+    "way2_code": "="
+  },
+  {
+    "id": 53,
+    "char": "ᠮ",
+    "unicode": "U+182E",
+    "name": "MONGOLIAN LETTER MA",
+    "frequency": 241420,
+    "latin_code": "Bf",
+    "way2_code": "E"
+  },
+  {
+    "id": 54,
+    "char": "و",
+    "unicode": "U+0648",
+    "name": "ARABIC LETTER WAW",
+    "frequency": 239636,
+    "latin_code": "Bg",
+    "way2_code": "M"
+  },
+  {
+    "id": 55,
+    "char": "ᠴ",
+    "unicode": "U+1834",
+    "name": "MONGOLIAN LETTER CHA",
+    "frequency": 235059,
+    "latin_code": "Bh",
+    "way2_code": "P"
+  },
+  {
+    "id": 56,
+    "char": "ې",
+    "unicode": "U+06D0",
+    "name": "ARABIC LETTER E",
+    "frequency": 220776,
+    "latin_code": "Bi",
+    "way2_code": "j"
+  },
+  {
+    "id": 57,
+    "char": "پ",
+    "unicode": "U+067E",
+    "name": "ARABIC LETTER PEH",
+    "frequency": 215365,
+    "latin_code": "Bj",
+    "way2_code": "р"
+  },
+  {
+    "id": 58,
+    "char": "པ",
+    "unicode": "U+0F54",
+    "name": "TIBETAN LETTER PA",
+    "frequency": 214266,
+    "latin_code": "Bk",
+    "way2_code": "D"
+  },
+  {
+    "id": 59,
+    "char": "ྲ",
+    "unicode": "U+0FB2",
+    "name": "TIBETAN SUBJOINED LETTER RA",
+    "frequency": 210270,
+    "latin_code": "Bl",
+    "way2_code": "9"
+  },
+  {
+    "id": 60,
+    "char": "།",
+    "unicode": "U+0F0D",
+    "name": "TIBETAN MARK SHAD",
+    "frequency": 188442,
+    "latin_code": "Bm",
+    "way2_code": "*"
+  },
+  {
+    "id": 61,
+    "char": "،",
+    "unicode": "U+060C",
+    "name": "ARABIC COMMA",
+    "frequency": 176915,
+    "latin_code": "Bn",
+    "way2_code": "L"
+  },
+  {
+    "id": 62,
+    "char": "ۈ",
+    "unicode": "U+06C8",
+    "name": "ARABIC LETTER YU",
+    "frequency": 175748,
+    "latin_code": "Bo",
+    "way2_code": "т"
+  },
+  {
+    "id": 63,
+    "char": "᠎",
+    "unicode": "U+180E",
+    "name": "MONGOLIAN VOWEL SEPARATOR",
+    "frequency": 164287,
+    "latin_code": "Bp",
+    "way2_code": "B"
+  },
+  {
+    "id": 64,
+    "char": "ڭ",
+    "unicode": "U+06AD",
+    "name": "ARABIC LETTER NG",
+    "frequency": 161158,
+    "latin_code": "Bq",
+    "way2_code": "R"
+  },
+  {
+    "id": 65,
+    "char": "ᠥ",
+    "unicode": "U+1825",
+    "name": "MONGOLIAN LETTER OE",
+    "frequency": 157965,
+    "latin_code": "Br",
+    "way2_code": "с"
+  },
+  {
+    "id": 66,
+    "char": "ز",
+    "unicode": "U+0632",
+    "name": "ARABIC LETTER ZAIN",
+    "frequency": 150309,
+    "latin_code": "Bs",
+    "way2_code": ";"
+  },
+  {
+    "id": 67,
+    "char": "چ",
+    "unicode": "U+0686",
+    "name": "ARABIC LETTER TCHEH",
+    "frequency": 148543,
+    "latin_code": "Bt",
+    "way2_code": "#"
+  },
+  {
+    "id": 68,
+    "char": "ཁ",
+    "unicode": "U+0F41",
+    "name": "TIBETAN LETTER KHA",
+    "frequency": 142369,
+    "latin_code": "Bu",
+    "way2_code": "$"
+  },
+  {
+    "id": 69,
+    "char": "᠂",
+    "unicode": "U+1802",
+    "name": "MONGOLIAN COMMA",
+    "frequency": 137897,
+    "latin_code": "Bv",
+    "way2_code": "q"
+  },
+  {
+    "id": 70,
+    "char": "غ",
+    "unicode": "U+063A",
+    "name": "ARABIC LETTER GHAIN",
+    "frequency": 126653,
+    "latin_code": "Bw",
+    "way2_code": "N"
+  },
+  {
+    "id": 71,
+    "char": "ཡ",
+    "unicode": "U+0F61",
+    "name": "TIBETAN LETTER YA",
+    "frequency": 123368,
+    "latin_code": "Bx",
+    "way2_code": "3"
+  },
+  {
+    "id": 72,
+    "char": "ཚ",
+    "unicode": "U+0F5A",
+    "name": "TIBETAN LETTER TSHA",
+    "frequency": 117825,
+    "latin_code": "By",
+    "way2_code": "в"
+  },
+  {
+    "id": 73,
+    "char": "ཀ",
+    "unicode": "U+0F40",
+    "name": "TIBETAN LETTER KA",
+    "frequency": 115093,
+    "latin_code": "Bz",
+    "way2_code": "F"
+  },
+  {
+    "id": 74,
+    "char": "گ",
+    "unicode": "U+06AF",
+    "name": "ARABIC LETTER GAF",
+    "frequency": 111024,
+    "latin_code": "Ca",
+    "way2_code": "л"
+  },
+  {
+    "id": 75,
+    "char": "ۋ",
+    "unicode": "U+06CB",
+    "name": "ARABIC LETTER VE",
+    "frequency": 107041,
+    "latin_code": "Cb",
+    "way2_code": "5"
+  },
+  {
+    "id": 76,
+    "char": "ྒ",
+    "unicode": "U+0F92",
+    "name": "TIBETAN SUBJOINED LETTER GA",
+    "frequency": 106132,
+    "latin_code": "Cc",
+    "way2_code": "4"
+  },
+  {
+    "id": 77,
+    "char": "ھ",
+    "unicode": "U+06BE",
+    "name": "ARABIC LETTER HEH DOACHASHMEE",
+    "frequency": 105311,
+    "latin_code": "Cd",
+    "way2_code": "8"
+  },
+  {
+    "id": 78,
+    "char": "ཐ",
+    "unicode": "U+0F50",
+    "name": "TIBETAN LETTER THA",
+    "frequency": 100652,
+    "latin_code": "Ce",
+    "way2_code": "é"
+  },
+  {
+    "id": 79,
+    "char": "ཞ",
+    "unicode": "U+0F5E",
+    "name": "TIBETAN LETTER ZHA",
+    "frequency": 100553,
+    "latin_code": "Cf",
+    "way2_code": "O"
+  },
+  {
+    "id": 80,
+    "char": "ཆ",
+    "unicode": "U+0F46",
+    "name": "TIBETAN LETTER CHA",
+    "frequency": 89501,
+    "latin_code": "Cg",
+    "way2_code": "H"
+  },
+  {
+    "id": 81,
+    "char": "خ",
+    "unicode": "U+062E",
+    "name": "ARABIC LETTER KHAH",
+    "frequency": 87341,
+    "latin_code": "Ch",
+    "way2_code": "к"
+  },
+  {
+    "id": 82,
+    "char": "ۆ",
+    "unicode": "U+06C6",
+    "name": "ARABIC LETTER OE",
+    "frequency": 83883,
+    "latin_code": "Ci",
+    "way2_code": "`"
+  },
+  {
+    "id": 83,
+    "char": "ᠩ",
+    "unicode": "U+1829",
+    "name": "MONGOLIAN LETTER ANG",
+    "frequency": 82818,
+    "latin_code": "Cj",
+    "way2_code": "6"
+  },
+  {
+    "id": 84,
+    "char": "ྐ",
+    "unicode": "U+0F90",
+    "name": "TIBETAN SUBJOINED LETTER KA",
+    "frequency": 62982,
+    "latin_code": "Ck",
+    "way2_code": "G"
+  },
+  {
+    "id": 85,
+    "char": "ཅ",
+    "unicode": "U+0F45",
+    "name": "TIBETAN LETTER CA",
+    "frequency": 62363,
+    "latin_code": "Cl",
+    "way2_code": "7"
+  },
+  {
+    "id": 86,
+    "char": "ج",
+    "unicode": "U+062C",
+    "name": "ARABIC LETTER JEEM",
+    "frequency": 60938,
+    "latin_code": "Cm",
+    "way2_code": "W"
+  },
+  {
+    "id": 87,
+    "char": "ཏ",
+    "unicode": "U+0F4F",
+    "name": "TIBETAN LETTER TA",
+    "frequency": 58511,
+    "latin_code": "Cn",
+    "way2_code": "д"
+  },
+  {
+    "id": 88,
+    "char": "ཕ",
+    "unicode": "U+0F55",
+    "name": "TIBETAN LETTER PHA",
+    "frequency": 58297,
+    "latin_code": "Co",
+    "way2_code": ">"
+  },
+  {
+    "id": 89,
+    "char": "ླ",
+    "unicode": "U+0FB3",
+    "name": "TIBETAN SUBJOINED LETTER LA",
+    "frequency": 53587,
+    "latin_code": "Cp",
+    "way2_code": "м"
+  },
+  {
+    "id": 90,
+    "char": "ྟ",
+    "unicode": "U+0F9F",
+    "name": "TIBETAN SUBJOINED LETTER TA",
+    "frequency": 53538,
+    "latin_code": "Cq",
+    "way2_code": "у"
+  },
+  {
+    "id": 91,
+    "char": "ཤ",
+    "unicode": "U+0F64",
+    "name": "TIBETAN LETTER SHA",
+    "frequency": 49043,
+    "latin_code": "Cr",
+    "way2_code": "["
+  },
+  {
+    "id": 92,
+    "char": "ཟ",
+    "unicode": "U+0F5F",
+    "name": "TIBETAN LETTER ZA",
+    "frequency": 47583,
+    "latin_code": "Cs",
+    "way2_code": "]"
+  },
+  {
+    "id": 93,
+    "char": "᠋",
+    "unicode": "U+180B",
+    "name": "MONGOLIAN FREE VARIATION SELECTOR ONE",
+    "frequency": 45725,
+    "latin_code": "Ct",
+    "way2_code": "V"
+  },
+  {
+    "id": 94,
+    "char": "ཉ",
+    "unicode": "U+0F49",
+    "name": "TIBETAN LETTER NYA",
+    "frequency": 44381,
+    "latin_code": "Cu",
+    "way2_code": "п"
+  },
+  {
+    "id": 95,
+    "char": "ྤ",
+    "unicode": "U+0FA4",
+    "name": "TIBETAN SUBJOINED LETTER PA",
+    "frequency": 42713,
+    "latin_code": "Cv",
+    "way2_code": "U"
+  },
+  {
+    "id": 96,
+    "char": "᠃",
+    "unicode": "U+1803",
+    "name": "MONGOLIAN FULL STOP",
+    "frequency": 37261,
+    "latin_code": "Cw",
+    "way2_code": "<"
+  },
+  {
+    "id": 97,
+    "char": "ྡ",
+    "unicode": "U+0FA1",
+    "name": "TIBETAN SUBJOINED LETTER DA",
+    "frequency": 33678,
+    "latin_code": "Cx",
+    "way2_code": "J"
+  },
+  {
+    "id": 98,
+    "char": "ᠸ",
+    "unicode": "U+1838",
+    "name": "MONGOLIAN LETTER WA",
+    "frequency": 31743,
+    "latin_code": "Cy",
+    "way2_code": "K"
+  },
+  {
+    "id": 99,
+    "char": "ᠧ",
+    "unicode": "U+1827",
+    "name": "MONGOLIAN LETTER EE",
+    "frequency": 28852,
+    "latin_code": "Cz",
+    "way2_code": "г"
+  },
+  {
+    "id": 100,
+    "char": "ྩ",
+    "unicode": "U+0FA9",
+    "name": "TIBETAN SUBJOINED LETTER TSA",
+    "frequency": 28252,
+    "latin_code": "Da",
+    "way2_code": "я"
+  },
+  {
+    "id": 101,
+    "char": "ཇ",
+    "unicode": "U+0F47",
+    "name": "TIBETAN LETTER JA",
+    "frequency": 24658,
+    "latin_code": "Db",
+    "way2_code": "і"
+  },
+  {
+    "id": 102,
+    "char": "ཧ",
+    "unicode": "U+0F67",
+    "name": "TIBETAN LETTER HA",
+    "frequency": 24316,
+    "latin_code": "Dc",
+    "way2_code": "з"
+  },
+  {
+    "id": 103,
+    "char": "ྣ",
+    "unicode": "U+0FA3",
+    "name": "TIBETAN SUBJOINED LETTER NA",
+    "frequency": 23007,
+    "latin_code": "Dd",
+    "way2_code": "?"
+  },
+  {
+    "id": 104,
+    "char": "ཛ",
+    "unicode": "U+0F5B",
+    "name": "TIBETAN LETTER DZA",
+    "frequency": 20219,
+    "latin_code": "De",
+    "way2_code": "+"
+  },
+  {
+    "id": 105,
+    "char": "ཙ",
+    "unicode": "U+0F59",
+    "name": "TIBETAN LETTER TSA",
+    "frequency": 17416,
+    "latin_code": "Df",
+    "way2_code": "б"
+  },
+  {
+    "id": 106,
+    "char": "ᠺ",
+    "unicode": "U+183A",
+    "name": "MONGOLIAN LETTER KA",
+    "frequency": 15606,
+    "latin_code": "Dg",
+    "way2_code": "á"
+  },
+  {
+    "id": 107,
+    "char": "ᠱ",
+    "unicode": "U+1831",
+    "name": "MONGOLIAN LETTER SHA",
+    "frequency": 15395,
+    "latin_code": "Dh",
+    "way2_code": "й"
+  },
+  {
+    "id": 108,
+    "char": "ྗ",
+    "unicode": "U+0F97",
+    "name": "TIBETAN SUBJOINED LETTER JA",
+    "frequency": 13732,
+    "latin_code": "Di",
+    "way2_code": "ь"
+  },
+  {
+    "id": 109,
+    "char": "ྔ",
+    "unicode": "U+0F94",
+    "name": "TIBETAN SUBJOINED LETTER NGA",
+    "frequency": 13575,
+    "latin_code": "Dj",
+    "way2_code": "Y"
+  },
+  {
+    "id": 110,
+    "char": "ྦ",
+    "unicode": "U+0FA6",
+    "name": "TIBETAN SUBJOINED LETTER BA",
+    "frequency": 12223,
+    "latin_code": "Dk",
+    "way2_code": "ó"
+  },
+  {
+    "id": 111,
+    "char": "ྨ",
+    "unicode": "U+0FA8",
+    "name": "TIBETAN SUBJOINED LETTER MA",
+    "frequency": 10903,
+    "latin_code": "Dl",
+    "way2_code": "ч"
+  },
+  {
+    "id": 112,
+    "char": "ཨ",
+    "unicode": "U+0F68",
+    "name": "TIBETAN LETTER A",
+    "frequency": 10861,
+    "latin_code": "Dm",
+    "way2_code": "ы"
+  },
+  {
+    "id": 113,
+    "char": "ᠫ",
+    "unicode": "U+182B",
+    "name": "MONGOLIAN LETTER PA",
+    "frequency": 10387,
+    "latin_code": "Dn",
+    "way2_code": "í"
+  },
+  {
+    "id": 114,
+    "char": "ྙ",
+    "unicode": "U+0F99",
+    "name": "TIBETAN SUBJOINED LETTER NYA",
+    "frequency": 10313,
+    "latin_code": "Do",
+    "way2_code": "Q"
+  },
+  {
+    "id": 115,
+    "char": "ྫ",
+    "unicode": "U+0FAB",
+    "name": "TIBETAN SUBJOINED LETTER DZA",
+    "frequency": 9408,
+    "latin_code": "Dp",
+    "way2_code": "^"
+  },
+  {
+    "id": 116,
+    "char": "ف",
+    "unicode": "U+0641",
+    "name": "ARABIC LETTER FEH",
+    "frequency": 9321,
+    "latin_code": "Dq",
+    "way2_code": "ä"
+  },
+  {
+    "id": 117,
+    "char": "ྷ",
+    "unicode": "U+0FB7",
+    "name": "TIBETAN SUBJOINED LETTER HA",
+    "frequency": 7661,
+    "latin_code": "Dr",
+    "way2_code": "&"
+  },
+  {
+    "id": 118,
+    "char": "᠄",
+    "unicode": "U+1804",
+    "name": "MONGOLIAN COLON",
+    "frequency": 7517,
+    "latin_code": "Ds",
+    "way2_code": "х"
+  },
+  {
+    "id": 119,
+    "char": "ྭ",
+    "unicode": "U+0FAD",
+    "name": "TIBETAN SUBJOINED LETTER WA",
+    "frequency": 7440,
+    "latin_code": "Dt",
+    "way2_code": "|"
+  },
+  {
+    "id": 120,
+    "char": "؛",
+    "unicode": "U+061B",
+    "name": "ARABIC SEMICOLON",
+    "frequency": 4748,
+    "latin_code": "Du",
+    "way2_code": "X"
+  },
+  {
+    "id": 121,
+    "char": "ᠹ",
+    "unicode": "U+1839",
+    "name": "MONGOLIAN LETTER FA",
+    "frequency": 4470,
+    "latin_code": "Dv",
+    "way2_code": "!"
+  },
+  {
+    "id": 122,
+    "char": "ཝ",
+    "unicode": "U+0F5D",
+    "name": "TIBETAN LETTER WA",
+    "frequency": 4014,
+    "latin_code": "Dw",
+    "way2_code": "ѣ"
+  },
+  {
+    "id": 123,
+    "char": "ྕ",
+    "unicode": "U+0F95",
+    "name": "TIBETAN SUBJOINED LETTER CA",
+    "frequency": 3286,
+    "latin_code": "Dx",
+    "way2_code": "ü"
+  },
+  {
+    "id": 124,
+    "char": "؟",
+    "unicode": "U+061F",
+    "name": "ARABIC QUESTION MARK",
+    "frequency": 3235,
+    "latin_code": "Dy",
+    "way2_code": "–"
+  },
+  {
+    "id": 125,
+    "char": "ྥ",
+    "unicode": "U+0FA5",
+    "name": "TIBETAN SUBJOINED LETTER PHA",
+    "frequency": 3029,
+    "latin_code": "Dz",
+    "way2_code": "%"
+  },
+  {
+    "id": 126,
+    "char": "ᠽ",
+    "unicode": "U+183D",
+    "name": "MONGOLIAN LETTER ZA",
+    "frequency": 2076,
+    "latin_code": "Ea",
+    "way2_code": "ц"
+  },
+  {
+    "id": 127,
+    "char": "ᠾ",
+    "unicode": "U+183E",
+    "name": "MONGOLIAN LETTER HAA",
+    "frequency": 1933,
+    "latin_code": "Eb",
+    "way2_code": "ö"
+  },
+  {
+    "id": 128,
+    "char": "ཱ",
+    "unicode": "U+0F71",
+    "name": "TIBETAN VOWEL SIGN AA",
+    "frequency": 1753,
+    "latin_code": "Ec",
+    "way2_code": "ж"
+  },
+  {
+    "id": 129,
+    "char": "᠌",
+    "unicode": "U+180C",
+    "name": "MONGOLIAN FREE VARIATION SELECTOR TWO",
+    "frequency": 1724,
+    "latin_code": "Ed",
+    "way2_code": "Z"
+  },
+  {
+    "id": 130,
+    "char": "‍",
+    "unicode": "U+200D",
+    "name": "ZERO WIDTH JOINER",
+    "frequency": 1703,
+    "latin_code": "Ee",
+    "way2_code": "è"
+  },
+  {
+    "id": 131,
+    "char": "ژ",
+    "unicode": "U+0698",
+    "name": "ARABIC LETTER JEH",
+    "frequency": 1326,
+    "latin_code": "Ef",
+    "way2_code": "à"
+  },
+  {
+    "id": 132,
+    "char": "ᠼ",
+    "unicode": "U+183C",
+    "name": "MONGOLIAN LETTER TSA",
+    "frequency": 1064,
+    "latin_code": "Eg",
+    "way2_code": "ш"
+  },
+  {
+    "id": 133,
+    "char": "༠",
+    "unicode": "U+0F20",
+    "name": "TIBETAN DIGIT ZERO",
+    "frequency": 1017,
+    "latin_code": "Eh",
+    "way2_code": "—"
+  },
+  {
+    "id": 134,
+    "char": "༡",
+    "unicode": "U+0F21",
+    "name": "TIBETAN DIGIT ONE",
+    "frequency": 792,
+    "latin_code": "Ei",
+    "way2_code": "đ"
+  },
+  {
+    "id": 135,
+    "char": "᠍",
+    "unicode": "U+180D",
+    "name": "MONGOLIAN FREE VARIATION SELECTOR THREE",
+    "frequency": 756,
+    "latin_code": "Ej",
+    "way2_code": "ю"
+  },
+  {
+    "id": 136,
+    "char": "༢",
+    "unicode": "U+0F22",
+    "name": "TIBETAN DIGIT TWO",
+    "frequency": 684,
+    "latin_code": "Ek",
+    "way2_code": "ł"
+  },
+  {
+    "id": 137,
+    "char": "ᡁ",
+    "unicode": "U+1841",
+    "name": "MONGOLIAN LETTER ZHI",
+    "frequency": 570,
+    "latin_code": "El",
+    "way2_code": "»"
+  },
+  {
+    "id": 138,
+    "char": "༣",
+    "unicode": "U+0F23",
+    "name": "TIBETAN DIGIT THREE",
+    "frequency": 361,
+    "latin_code": "Em",
+    "way2_code": "С"
+  },
+  {
+    "id": 139,
+    "char": "᠁",
+    "unicode": "U+1801",
+    "name": "MONGOLIAN ELLIPSIS",
+    "frequency": 321,
+    "latin_code": "En",
+    "way2_code": "«"
+  },
+  {
+    "id": 140,
+    "char": "༥",
+    "unicode": "U+0F25",
+    "name": "TIBETAN DIGIT FIVE",
+    "frequency": 306,
+    "latin_code": "Eo",
+    "way2_code": "’"
+  },
+  {
+    "id": 141,
+    "char": "༤",
+    "unicode": "U+0F24",
+    "name": "TIBETAN DIGIT FOUR",
+    "frequency": 268,
+    "latin_code": "Ep",
+    "way2_code": "ф"
+  },
+  {
+    "id": 142,
+    "char": "ᡂ",
+    "unicode": "U+1842",
+    "name": "MONGOLIAN LETTER CHI",
+    "frequency": 230,
+    "latin_code": "Eq",
+    "way2_code": "В"
+  },
+  {
+    "id": 143,
+    "char": "༦",
+    "unicode": "U+0F26",
+    "name": "TIBETAN DIGIT SIX",
+    "frequency": 194,
+    "latin_code": "Er",
+    "way2_code": "П"
+  },
+  {
+    "id": 144,
+    "char": "༩",
+    "unicode": "U+0F29",
+    "name": "TIBETAN DIGIT NINE",
+    "frequency": 184,
+    "latin_code": "Es",
+    "way2_code": "К"
+  },
+  {
+    "id": 145,
+    "char": "༨",
+    "unicode": "U+0F28",
+    "name": "TIBETAN DIGIT EIGHT",
+    "frequency": 164,
+    "latin_code": "Et",
+    "way2_code": "“"
+  },
+  {
+    "id": 146,
+    "char": "ـ",
+    "unicode": "U+0640",
+    "name": "ARABIC TATWEEL",
+    "frequency": 150,
+    "latin_code": "Eu",
+    "way2_code": "ј"
+  },
+  {
+    "id": 147,
+    "char": "༧",
+    "unicode": "U+0F27",
+    "name": "TIBETAN DIGIT SEVEN",
+    "frequency": 137,
+    "latin_code": "Ev",
+    "way2_code": "М"
+  },
+  {
+    "id": 148,
+    "char": "ཊ",
+    "unicode": "U+0F4A",
+    "name": "TIBETAN LETTER TTA",
+    "frequency": 72,
+    "latin_code": "Ew",
+    "way2_code": "А"
+  },
+  {
+    "id": 149,
+    "char": "ᠿ",
+    "unicode": "U+183F",
+    "name": "MONGOLIAN LETTER ZRA",
+    "frequency": 63,
+    "latin_code": "Ex",
+    "way2_code": "ç"
+  },
+  {
+    "id": 150,
+    "char": "ྰ",
+    "unicode": "U+0FB0",
+    "name": "TIBETAN SUBJOINED LETTER -A",
+    "frequency": 24,
+    "latin_code": "Ey",
+    "way2_code": "å"
+  },
+  {
+    "id": 151,
+    "char": "ཌ",
+    "unicode": "U+0F4C",
+    "name": "TIBETAN LETTER DDA",
+    "frequency": 12,
+    "latin_code": "Ez",
+    "way2_code": "щ"
+  },
+  {
+    "id": 152,
+    "char": "༽",
+    "unicode": "U+0F3D",
+    "name": "TIBETAN MARK ANG KHANG GYAS",
+    "frequency": 8,
+    "latin_code": "Fa",
+    "way2_code": "~"
+  },
+  {
+    "id": 153,
+    "char": "༼",
+    "unicode": "U+0F3C",
+    "name": "TIBETAN MARK ANG KHANG GYON",
+    "frequency": 7,
+    "latin_code": "Fb",
+    "way2_code": "ę"
+  },
+  {
+    "id": 154,
+    "char": "བྷ",
+    "unicode": "U+0F57",
+    "name": "TIBETAN LETTER BHA",
+    "frequency": 7,
+    "latin_code": "Fc",
+    "way2_code": "”"
+  },
+  {
+    "id": 155,
+    "char": "ཻ",
+    "unicode": "U+0F7B",
+    "name": "TIBETAN VOWEL SIGN EE",
+    "frequency": 5,
+    "latin_code": "Fd",
+    "way2_code": "ą"
+  },
+  {
+    "id": 156,
+    "char": "ཎ",
+    "unicode": "U+0F4E",
+    "name": "TIBETAN LETTER NNA",
+    "frequency": 5,
+    "latin_code": "Fe",
+    "way2_code": "č"
+  },
+  {
+    "id": 157,
+    "char": "ᡀ",
+    "unicode": "U+1840",
+    "name": "MONGOLIAN LETTER LHA",
+    "frequency": 2,
+    "latin_code": "Ff",
+    "way2_code": "Р"
+  },
+  {
+    "id": 158,
+    "char": "ྜ",
+    "unicode": "U+0F9C",
+    "name": "TIBETAN SUBJOINED LETTER DDA",
+    "frequency": 2,
+    "latin_code": "Fg",
+    "way2_code": "ї"
+  },
+  {
+    "id": 159,
+    "char": "ཪ",
+    "unicode": "U+0F6A",
+    "name": "TIBETAN LETTER FIXED-FORM RA",
+    "frequency": 2,
+    "latin_code": "Fh",
+    "way2_code": "Н"
+  },
+  {
+    "id": 160,
+    "char": "དྷ",
+    "unicode": "U+0F52",
+    "name": "TIBETAN LETTER DHA",
+    "frequency": 1,
+    "latin_code": "Fi",
+    "way2_code": "ú"
+  },
+  {
+    "id": 161,
+    "char": "༄",
+    "unicode": "U+0F04",
+    "name": "TIBETAN MARK INITIAL YIG MGO MDUN MA",
+    "frequency": 1,
+    "latin_code": "Fj",
+    "way2_code": "Б"
+  },
+  {
+    "id": 162,
+    "char": "༅",
+    "unicode": "U+0F05",
+    "name": "TIBETAN MARK CLOSING YIG MGO SGAB MA",
+    "frequency": 1,
+    "latin_code": "Fk",
+    "way2_code": "Д"
+  }
+]

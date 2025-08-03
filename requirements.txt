@@ -1,0 +1,18 @@
+# Core dependencies
+numpy>=1.21.0
+tqdm>=4.64.0
+pathlib>=1.0.1
+
+# NLP and tokenization
+transformers>=4.20.0
+tokenizers>=0.13.0
+
+# Optional dependencies for specific features
+uroman>=1.2.8  # For UROMAN comparison (optional)
+
+# Development and testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Utilities
+unicodedata2>=15.0.0  # Enhanced Unicode support
