@@ -1,8 +1,13 @@
 # HuffmanTranslit: Reversible Transliteration for Low-Resource Languages
 
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Paper](https://img.shields.io/badge/Paper-ACL2025-green.svg)](https://aclanthology.org/2025.acl-long.795/)
+<div align="center">
+  <img src="examples/structure-huffman.jpg" alt="HuffmanTranslit Framework" width="60%"/>
+  <br><br>
+  
+  [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![Paper](https://img.shields.io/badge/Paper-ACL2025-green.svg)](https://aclanthology.org/2025.acl-long.795/)
+</div>
 
 **HuffmanTranslit** is a novel framework for enhancing cross-lingual transfer in large language models through reversible transliteration of low-resource languages. Our approach combines character transliteration with Huffman coding principles to achieve compression, accuracy, efficiency, and scalability for **any character-based writing system**.
 
